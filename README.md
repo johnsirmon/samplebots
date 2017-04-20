@@ -1,2 +1,3 @@
 # samplebots
-just testing sample bots
+just testing sample bots nothing more
+
